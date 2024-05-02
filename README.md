@@ -1,5 +1,3 @@
-# Toxic_Language_PTBR_Classification
-
 # ML Olympiad - Toxic Language (PTBR) Detection
 
 Competição do Kaggle para Classificação Binária entre tweets Tóxicos e Não Tóxicos em Português Brasileiro
